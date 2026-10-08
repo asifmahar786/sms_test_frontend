@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = "http://localhost:3000/students";
+const API_URL = `${import.meta.env.VITE_API_URL}/students`;
 
 function Students() {
 
