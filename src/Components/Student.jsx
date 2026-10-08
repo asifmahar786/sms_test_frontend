@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = '${import.meta.env.VITE_API_URL}/students';
+const API_URL = 'https://backend-rho-mocha-10.vercel.app/students';
 
 
 function Students() {
