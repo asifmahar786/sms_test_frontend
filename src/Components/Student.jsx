@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = 'https://backend-rho-mocha-10.vercel.app/students';
+const API_URL = 'https://sms-test-lilac.vercel.app/students';
 
 
 function Students() {
